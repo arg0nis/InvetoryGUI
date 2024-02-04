@@ -1,0 +1,9 @@
+name: InventoryGUI
+version: '${project.version}'
+main: com.arg0nis.inventorygui.InventoryGUI
+api-version: '1.20'
+authors: [Arg0nis]
+commands:
+  menu:
+    usage: /menu
+    description: Open default menu.

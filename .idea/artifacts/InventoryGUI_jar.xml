@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InventoryGUI:jar">
+    <output-path>$PROJECT_DIR$/../../TestServr/plugins</output-path>
+    <root id="archive" name="InventoryGUI.jar">
+      <element id="module-output" name="InventoryGUI" />
+    </root>
+  </artifact>
+</component>
